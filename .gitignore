@@ -1,0 +1,54 @@
+# Compiled
+*.elc
+src/*.eld
+src/.*
+
+# Packaging
+.cask
+src/straight/
+src/straight/*
+src/.cache/
+src/.cache/*
+
+# Backup files
+*~
+*.BK
+
+# Undo-tree save-files
+*.~undo-tree
+
+# personal
+eclipse.*//
+eclipse.*/*
+.cache/
+.cache/*
+auto-save-list/
+auto-save-list/*
+history
+org-roam.db
+places
+projectile-bookmarks.eld
+recentf*
+savefile/
+savefile/*
+src/tramp
+src/transient/
+src/transient/*
+workspace/
+workspace/*
+src/.dap-breakpoints
+.lsp-session-v1
+.mc-lists.el
+bookmarks
+.org-id-locations
+src/lsp-cache/
+src/lsp-cache/*
+src/network-security.data
+eln-cache/
+eln-cache/*
+src/tramp
+undotree/
+undotree/*
+history.el
+
+# EOF

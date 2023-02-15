@@ -1,0 +1,8 @@
+#+title: ob-spice: Org babel support for spice
+#+author: Tiago Oliveira Weber
+
+* ob-spice
+
+Taken from Tiago Oliveira Weber's Github https://github.com/tiagoweber/tiagoweber.github.io
+
+EOF
